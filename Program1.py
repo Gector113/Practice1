@@ -1,0 +1,5 @@
+print('Daniil Avramenko')
+print('0960183325')
+print('Сathedral street 10, apartment 25, Fastiv')
+print('08500')
+print('Ukraine')
